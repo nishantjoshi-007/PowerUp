@@ -22,11 +22,10 @@
 
 
 ### :gear: Installation
-In VS code, First <br>
-For Windows
-- ctrl+P
-For MacOs
-- cmd+P
+In VS code, First
+- ctrl+P For Windows
+- cmd+P For MacOs
+
 <br> Install Python Extension
 ```bash
 ext install python
