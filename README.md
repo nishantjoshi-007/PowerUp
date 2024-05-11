@@ -1,7 +1,8 @@
 ## :star2: PowerUp: Unlocking Video Game Sales Predictions
+
 <div align='center'>
 
-<p>Welcome to the 'PowerUp' Github repository, where we dive into the fascinating world of sales predictions in the video game industry through the lens of machine learning. This project aims to address the subtle yet significant challenge of making accurate sales forecasts, which are crucial for budgeting and timely game development, ultimately leading to profitability.</p>
+<p>Welcome to the 'PowerUp' GitHub repository! This project is dedicated to enhancing video game sales predictions through the strategic application of machine learning models. Our work focuses on evaluating the efficacy of various predictive models, aiding companies in the video game industry to establish well-informed budgets and development timelines.</p>
 <h4> <span> · </span> <a href="https://github.com/nishantjoshi-007/PowerUp/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/nishantjoshi-007/PowerUp/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/nishantjoshi-007/PowerUp/issues"> Request Feature </a> </h4>
 
 </div>
