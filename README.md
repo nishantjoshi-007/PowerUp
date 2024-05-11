@@ -27,7 +27,7 @@ For Windows
 - ctrl+P
 For MacOs
 - cmd+P
-Install Python Extension
+<br> Install Python Extension
 ```bash
 ext install python
 ```
