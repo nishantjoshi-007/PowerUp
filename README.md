@@ -2,7 +2,6 @@
 <div align='center'>
 
 <p>Welcome to the PowerUp repository, where we dive into the fascinating world of sales predictions in the video game industry through the lens of machine learning. This project aims to address the subtle yet significant challenge of making accurate sales forecasts, which are crucial for budgeting and timely game development, ultimately leading to profitability.</p>
-
 <h4> <span> · </span> <a href="https://github.com/nishantjoshi-007/PowerUp/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/nishantjoshi-007/PowerUp/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/nishantjoshi-007/PowerUp/issues"> Request Feature </a> </h4>
 
 </div>
