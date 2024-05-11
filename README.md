@@ -26,7 +26,7 @@ In VS code, First
 - ctrl+P For Windows
 - cmd+P For MacOs
 
-<br> Install Python Extension
+Install Python Extension
 ```bash
 ext install python
 ```
