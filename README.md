@@ -21,6 +21,26 @@
 - Install VS code to run locally<a href="https://code.visualstudio.com/Download"> Here</a>
 
 
+### :gear: Installation
+In VS code, First <br>
+For Windows
+```bash
+ctrl+P
+```
+For MacOs
+```bash
+cmd+P
+```
+Install Python Extension
+```bash
+ext install python
+```
+Install Jupyter Extension
+```bash
+ext install jupyter
+```
+
+
 ### :running: Run Locally
 Clone the project
 ```bash
