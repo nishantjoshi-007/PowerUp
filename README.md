@@ -1,4 +1,4 @@
-## :star2: PowerUp: Unlocking Video Game Sales Predictions
+# :star2: PowerUp: Unlocking Video Game Sales Predictions
 
 <div align='center'>
 
