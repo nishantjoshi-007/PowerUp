@@ -54,6 +54,6 @@ pip install -r requirements.txt
 Distributed under the MIT License. See <a href="https://github.com/nishantjoshi-007/CarVis/blob/main/LICENSE">LICENSE.txt</a> for more information.
 
 ## :gem: Acknowledgements
-Use this section to mention useful resources and libraries that you have used in your projects.
+This section is used to mention useful resources and libraries that I have used in your projects.
 - [Here is the link to dataset that was used for this project](https://www.kaggle.com/datasets/gregorut/videogamesales/data)
 - [Here is the work of previous author that was used to understand task](https://www.kaggle.com/code/omersenol/linear-regression)
