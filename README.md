@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 
 ## :wave: Contributing
-<img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" /> Contributions to the CarVis are always welcome! Whether it's reporting bugs, suggesting new features, or improving the code, your input is valuable. Please feel free to fork this repository, make your changes, and submit a pull request.
+<img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" /> Contributions to the PowerUp are always welcome! Whether it's reporting bugs, suggesting new features, or improving the code, your input is valuable. Please feel free to fork this repository, make your changes, and submit a pull request.
 
 ## :warning: License
 Distributed under the MIT License. See <a href="https://github.com/nishantjoshi-007/CarVis/blob/main/LICENSE">LICENSE.txt</a> for more information.
